@@ -303,6 +303,7 @@ for (i in 1:13)
  cat("Tercer Numero a Base 10: ", calculoParteEnteraABinaria(30),".",calculoParteDecimalABinaria(0.6,10), "\n")
  cat("Cuarto Numero a Base 10: ", calculoParteEnteraABinaria(99),".",calculoParteDecimalABinaria(0.9,10), "\n")
 
+ 
 #Sub-Matriz tringular superior
 sizes = c(2,3,5,10,20,30,40,50,60,70)
 
@@ -330,6 +331,9 @@ matrizTriangularSuperior = function(tams)
    return(resultados)
 }
 
+graficar = matrizTriangularSuperior(sizes)
+
+plot(sizes,graficar,xlab = "TamaÃ±os",ylab = "Resultados", type = 'l',col = 1)
  
  
  
