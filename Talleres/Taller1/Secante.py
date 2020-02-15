@@ -1,3 +1,8 @@
+"""
+Editor de Spyder
+Gabriela camacho Y Juan Camacho
+
+"""
 import math as mt
 import numpy as np
 import matplotlib as mtp
