@@ -1,8 +1,8 @@
 
 """
-Created on Thu Feb 13 16:35:32 2020
+Editor de Spyder
+Gabriela camacho Y Juan Camacho
 
-@author: gabri
 """
 #import numpy as np
 #import math as mt
