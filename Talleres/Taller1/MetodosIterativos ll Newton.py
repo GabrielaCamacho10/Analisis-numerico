@@ -2,7 +2,7 @@
 """
 Editor de Spyder
 Gabriela camacho Y Juan Camacho
-Este es un archivo temporal.
+
 """
 import numpy as np
 import math as mt
