@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri Feb 14 08:40:15 2020
+Editor de Spyder
+Gabriela camacho Y Juan Camacho
 
-@author: gabri
 """
 
 import numpy as np
